@@ -34,7 +34,7 @@ procedure TForm1.Button1Click(Sender: TObject);
 begin
   memo1.lines.add(edit1.text);
   showMessage(edit1.text +' foi adicionado');
-  Edit1.Text := '';
+  edti1 := '';
 end;
 
 procedure TForm1.Button2Click(Sender: TObject);
