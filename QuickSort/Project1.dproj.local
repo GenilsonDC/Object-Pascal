@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/13 14:34:26.000.935,=C:\Users\genil\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/13 14:53:42.000.608,C:\Users\genil\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Git\Academico\Youtube\ObjectPascal\Unit1.pas</Transaction>
+    <Transaction>2024/04/13 14:53:42.000.608,C:\Users\genil\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Git\Academico\Youtube\ObjectPascal\Unit1.dfm</Transaction>
+    <Transaction>2024/04/13 14:53:49.000.192,C:\Users\genil\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Git\Academico\Youtube\ObjectPascal\Project1.dproj</Transaction>
+    <Transaction>2024/04/13 20:23:34.000.154,C:\Git\Academico\Youtube\ObjectPascal\Unit1.dfm=C:\Git\Object-Pascal\QuickSort\QuickSort.dfm</Transaction>
+    <Transaction>2024/04/13 20:23:34.000.154,C:\Git\Academico\Youtube\ObjectPascal\Unit1.pas=C:\Git\Object-Pascal\QuickSort\QuickSort.pas</Transaction>
+  </Transactions>
+</BorlandProject>
